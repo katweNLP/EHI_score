@@ -1,0 +1,3200 @@
+{
+    "0": {
+        "Id": "0",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "1": {
+        "Id": "1",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "2": {
+        "Id": "2",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "3": {
+        "Id": "3",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "4": {
+        "Id": "4",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "5": {
+        "Id": "5",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "6": {
+        "Id": "6",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "7": {
+        "Id": "7",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "8": {
+        "Id": "8",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "9": {
+        "Id": "9",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "10": {
+        "Id": "10",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "11": {
+        "Id": "11",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "12": {
+        "Id": "12",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "13": {
+        "Id": "13",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "14": {
+        "Id": "14",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "15": {
+        "Id": "15",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "16": {
+        "Id": "16",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "17": {
+        "Id": "17",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "18": {
+        "Id": "18",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "19": {
+        "Id": "19",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "20": {
+        "Id": "20",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "21": {
+        "Id": "21",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "22": {
+        "Id": "22",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "23": {
+        "Id": "23",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "24": {
+        "Id": "24",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "25": {
+        "Id": "25",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "26": {
+        "Id": "26",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "27": {
+        "Id": "27",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "28": {
+        "Id": "28",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "29": {
+        "Id": "29",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "30": {
+        "Id": "30",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "31": {
+        "Id": "31",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "32": {
+        "Id": "32",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "33": {
+        "Id": "33",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "34": {
+        "Id": "34",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "35": {
+        "Id": "35",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "36": {
+        "Id": "36",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "37": {
+        "Id": "37",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "38": {
+        "Id": "38",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "39": {
+        "Id": "39",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "40": {
+        "Id": "40",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "41": {
+        "Id": "41",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "42": {
+        "Id": "42",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "43": {
+        "Id": "43",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "44": {
+        "Id": "44",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "45": {
+        "Id": "45",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "46": {
+        "Id": "46",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "47": {
+        "Id": "47",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "48": {
+        "Id": "48",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "49": {
+        "Id": "49",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "50": {
+        "Id": "50",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "51": {
+        "Id": "51",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "52": {
+        "Id": "52",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "53": {
+        "Id": "53",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "54": {
+        "Id": "54",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "55": {
+        "Id": "55",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "56": {
+        "Id": "56",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "57": {
+        "Id": "57",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "58": {
+        "Id": "58",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "59": {
+        "Id": "59",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "60": {
+        "Id": "60",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "61": {
+        "Id": "61",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "62": {
+        "Id": "62",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "63": {
+        "Id": "63",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "64": {
+        "Id": "64",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "65": {
+        "Id": "65",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "66": {
+        "Id": "66",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "67": {
+        "Id": "67",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "68": {
+        "Id": "68",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "69": {
+        "Id": "69",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "70": {
+        "Id": "70",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "71": {
+        "Id": "71",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "72": {
+        "Id": "72",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "73": {
+        "Id": "73",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "74": {
+        "Id": "74",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "75": {
+        "Id": "75",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "76": {
+        "Id": "76",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "77": {
+        "Id": "77",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "78": {
+        "Id": "78",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "79": {
+        "Id": "79",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "80": {
+        "Id": "80",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "81": {
+        "Id": "81",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "82": {
+        "Id": "82",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "83": {
+        "Id": "83",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "84": {
+        "Id": "84",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "85": {
+        "Id": "85",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "86": {
+        "Id": "86",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "87": {
+        "Id": "87",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "88": {
+        "Id": "88",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "89": {
+        "Id": "89",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "90": {
+        "Id": "90",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "91": {
+        "Id": "91",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "92": {
+        "Id": "92",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "93": {
+        "Id": "93",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "94": {
+        "Id": "94",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "95": {
+        "Id": "95",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "96": {
+        "Id": "96",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "97": {
+        "Id": "97",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "98": {
+        "Id": "98",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "99": {
+        "Id": "99",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "100": {
+        "Id": "100",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "101": {
+        "Id": "101",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "102": {
+        "Id": "102",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "103": {
+        "Id": "103",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "104": {
+        "Id": "104",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "105": {
+        "Id": "105",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "106": {
+        "Id": "106",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "107": {
+        "Id": "107",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "108": {
+        "Id": "108",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "109": {
+        "Id": "109",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "110": {
+        "Id": "110",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "111": {
+        "Id": "111",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "112": {
+        "Id": "112",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "113": {
+        "Id": "113",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "114": {
+        "Id": "114",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "115": {
+        "Id": "115",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "116": {
+        "Id": "116",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "117": {
+        "Id": "117",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "118": {
+        "Id": "118",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "119": {
+        "Id": "119",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "120": {
+        "Id": "120",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "121": {
+        "Id": "121",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "122": {
+        "Id": "122",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "123": {
+        "Id": "123",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "124": {
+        "Id": "124",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "125": {
+        "Id": "125",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "126": {
+        "Id": "126",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "127": {
+        "Id": "127",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "128": {
+        "Id": "128",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "129": {
+        "Id": "129",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "130": {
+        "Id": "130",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "131": {
+        "Id": "131",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "132": {
+        "Id": "132",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "133": {
+        "Id": "133",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "134": {
+        "Id": "134",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "135": {
+        "Id": "135",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "136": {
+        "Id": "136",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "137": {
+        "Id": "137",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "138": {
+        "Id": "138",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "139": {
+        "Id": "139",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "140": {
+        "Id": "140",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "141": {
+        "Id": "141",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "142": {
+        "Id": "142",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "143": {
+        "Id": "143",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "144": {
+        "Id": "144",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "145": {
+        "Id": "145",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "146": {
+        "Id": "146",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "147": {
+        "Id": "147",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "148": {
+        "Id": "148",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "149": {
+        "Id": "149",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "150": {
+        "Id": "150",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "151": {
+        "Id": "151",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "152": {
+        "Id": "152",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "153": {
+        "Id": "153",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "154": {
+        "Id": "154",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "155": {
+        "Id": "155",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "156": {
+        "Id": "156",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "157": {
+        "Id": "157",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "158": {
+        "Id": "158",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "159": {
+        "Id": "159",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "160": {
+        "Id": "160",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "161": {
+        "Id": "161",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "162": {
+        "Id": "162",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "163": {
+        "Id": "163",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "164": {
+        "Id": "164",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "165": {
+        "Id": "165",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "166": {
+        "Id": "166",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "167": {
+        "Id": "167",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "168": {
+        "Id": "168",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "169": {
+        "Id": "169",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "170": {
+        "Id": "170",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "171": {
+        "Id": "171",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "172": {
+        "Id": "172",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "173": {
+        "Id": "173",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "174": {
+        "Id": "174",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "175": {
+        "Id": "175",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "176": {
+        "Id": "176",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "177": {
+        "Id": "177",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "178": {
+        "Id": "178",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "179": {
+        "Id": "179",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "180": {
+        "Id": "180",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "181": {
+        "Id": "181",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "182": {
+        "Id": "182",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "183": {
+        "Id": "183",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "184": {
+        "Id": "184",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "185": {
+        "Id": "185",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "186": {
+        "Id": "186",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "187": {
+        "Id": "187",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "188": {
+        "Id": "188",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "189": {
+        "Id": "189",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "190": {
+        "Id": "190",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "191": {
+        "Id": "191",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "192": {
+        "Id": "192",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "193": {
+        "Id": "193",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "194": {
+        "Id": "194",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "195": {
+        "Id": "195",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "196": {
+        "Id": "196",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "197": {
+        "Id": "197",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "198": {
+        "Id": "198",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "199": {
+        "Id": "199",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "200": {
+        "Id": "200",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "201": {
+        "Id": "201",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "202": {
+        "Id": "202",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "203": {
+        "Id": "203",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "204": {
+        "Id": "204",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "205": {
+        "Id": "205",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "206": {
+        "Id": "206",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "207": {
+        "Id": "207",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "208": {
+        "Id": "208",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "209": {
+        "Id": "209",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "210": {
+        "Id": "210",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "211": {
+        "Id": "211",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "212": {
+        "Id": "212",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "213": {
+        "Id": "213",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "214": {
+        "Id": "214",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "215": {
+        "Id": "215",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "216": {
+        "Id": "216",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "217": {
+        "Id": "217",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "218": {
+        "Id": "218",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "219": {
+        "Id": "219",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "220": {
+        "Id": "220",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "221": {
+        "Id": "221",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "222": {
+        "Id": "222",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "223": {
+        "Id": "223",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "224": {
+        "Id": "224",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "225": {
+        "Id": "225",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "226": {
+        "Id": "226",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "227": {
+        "Id": "227",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "228": {
+        "Id": "228",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "229": {
+        "Id": "229",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "230": {
+        "Id": "230",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "231": {
+        "Id": "231",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "232": {
+        "Id": "232",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "233": {
+        "Id": "233",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "234": {
+        "Id": "234",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "235": {
+        "Id": "235",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "236": {
+        "Id": "236",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "237": {
+        "Id": "237",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "238": {
+        "Id": "238",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "239": {
+        "Id": "239",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "240": {
+        "Id": "240",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "241": {
+        "Id": "241",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "242": {
+        "Id": "242",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "243": {
+        "Id": "243",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "244": {
+        "Id": "244",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "245": {
+        "Id": "245",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "246": {
+        "Id": "246",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "247": {
+        "Id": "247",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "248": {
+        "Id": "248",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "249": {
+        "Id": "249",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "250": {
+        "Id": "250",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "251": {
+        "Id": "251",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "252": {
+        "Id": "252",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "253": {
+        "Id": "253",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "254": {
+        "Id": "254",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "255": {
+        "Id": "255",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "256": {
+        "Id": "256",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "257": {
+        "Id": "257",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "258": {
+        "Id": "258",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "259": {
+        "Id": "259",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "260": {
+        "Id": "260",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "261": {
+        "Id": "261",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "262": {
+        "Id": "262",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "263": {
+        "Id": "263",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "264": {
+        "Id": "264",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "265": {
+        "Id": "265",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "266": {
+        "Id": "266",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "267": {
+        "Id": "267",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "268": {
+        "Id": "268",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "269": {
+        "Id": "269",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "270": {
+        "Id": "270",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "271": {
+        "Id": "271",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "272": {
+        "Id": "272",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "273": {
+        "Id": "273",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "274": {
+        "Id": "274",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "275": {
+        "Id": "275",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "276": {
+        "Id": "276",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "277": {
+        "Id": "277",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "278": {
+        "Id": "278",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "279": {
+        "Id": "279",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "280": {
+        "Id": "280",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "281": {
+        "Id": "281",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "282": {
+        "Id": "282",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "283": {
+        "Id": "283",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "284": {
+        "Id": "284",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "285": {
+        "Id": "285",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "286": {
+        "Id": "286",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "287": {
+        "Id": "287",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "288": {
+        "Id": "288",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "289": {
+        "Id": "289",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "290": {
+        "Id": "290",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "291": {
+        "Id": "291",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "292": {
+        "Id": "292",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "293": {
+        "Id": "293",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "294": {
+        "Id": "294",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "295": {
+        "Id": "295",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "296": {
+        "Id": "296",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "297": {
+        "Id": "297",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "298": {
+        "Id": "298",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "299": {
+        "Id": "299",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "300": {
+        "Id": "300",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "301": {
+        "Id": "301",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "302": {
+        "Id": "302",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "303": {
+        "Id": "303",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "304": {
+        "Id": "304",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "305": {
+        "Id": "305",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "306": {
+        "Id": "306",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "307": {
+        "Id": "307",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "308": {
+        "Id": "308",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "309": {
+        "Id": "309",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "310": {
+        "Id": "310",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "311": {
+        "Id": "311",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "312": {
+        "Id": "312",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "313": {
+        "Id": "313",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "314": {
+        "Id": "314",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "315": {
+        "Id": "315",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "316": {
+        "Id": "316",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "317": {
+        "Id": "317",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "318": {
+        "Id": "318",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "319": {
+        "Id": "319",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "320": {
+        "Id": "320",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "321": {
+        "Id": "321",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "322": {
+        "Id": "322",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "323": {
+        "Id": "323",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "324": {
+        "Id": "324",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "325": {
+        "Id": "325",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "326": {
+        "Id": "326",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "327": {
+        "Id": "327",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "328": {
+        "Id": "328",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "329": {
+        "Id": "329",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "330": {
+        "Id": "330",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "331": {
+        "Id": "331",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "332": {
+        "Id": "332",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "333": {
+        "Id": "333",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "334": {
+        "Id": "334",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "335": {
+        "Id": "335",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "336": {
+        "Id": "336",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "337": {
+        "Id": "337",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "338": {
+        "Id": "338",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "339": {
+        "Id": "339",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "340": {
+        "Id": "340",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "341": {
+        "Id": "341",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "342": {
+        "Id": "342",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "343": {
+        "Id": "343",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "344": {
+        "Id": "344",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "345": {
+        "Id": "345",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "346": {
+        "Id": "346",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "347": {
+        "Id": "347",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "348": {
+        "Id": "348",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "349": {
+        "Id": "349",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "350": {
+        "Id": "350",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "351": {
+        "Id": "351",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "352": {
+        "Id": "352",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "353": {
+        "Id": "353",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "354": {
+        "Id": "354",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "355": {
+        "Id": "355",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "356": {
+        "Id": "356",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "357": {
+        "Id": "357",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "358": {
+        "Id": "358",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "359": {
+        "Id": "359",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "360": {
+        "Id": "360",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "361": {
+        "Id": "361",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "362": {
+        "Id": "362",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "363": {
+        "Id": "363",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "364": {
+        "Id": "364",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "365": {
+        "Id": "365",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "366": {
+        "Id": "366",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "367": {
+        "Id": "367",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "368": {
+        "Id": "368",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "369": {
+        "Id": "369",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "370": {
+        "Id": "370",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "371": {
+        "Id": "371",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "372": {
+        "Id": "372",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "373": {
+        "Id": "373",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "374": {
+        "Id": "374",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "375": {
+        "Id": "375",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "376": {
+        "Id": "376",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "377": {
+        "Id": "377",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "378": {
+        "Id": "378",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "379": {
+        "Id": "379",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "380": {
+        "Id": "380",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "381": {
+        "Id": "381",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "382": {
+        "Id": "382",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "383": {
+        "Id": "383",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "384": {
+        "Id": "384",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "385": {
+        "Id": "385",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "386": {
+        "Id": "386",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "387": {
+        "Id": "387",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "388": {
+        "Id": "388",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "389": {
+        "Id": "389",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "390": {
+        "Id": "390",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "391": {
+        "Id": "391",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "392": {
+        "Id": "392",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "393": {
+        "Id": "393",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "394": {
+        "Id": "394",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "395": {
+        "Id": "395",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "396": {
+        "Id": "396",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "397": {
+        "Id": "397",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "398": {
+        "Id": "398",
+        "dataset": "Xsum",
+        "facebook/bart-large-cnn": "8",
+        "google/pegasus-xsum": "8",
+        "t5-large": "8",
+        "gpt-3.5-turbo": "8"
+    },
+    "8": {
+        "facebook/bart-large-cnn": 9,
+        "google/pegasus-xsum": 10,
+        "t5-large": 9,
+        "gpt-3.5-turbo": 9
+    }
+}
